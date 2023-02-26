@@ -2039,7 +2039,7 @@
 						DevelopmentTeam = 686EDA2T8T;
 					};
 					4FD16A0813B63081001D0217 = {
-						DevelopmentTeam = 686EDA2T8T;
+						DevelopmentTeam = BZQYTY2H65;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.Mac = {
@@ -3827,6 +3827,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "TemplateProject-macOS";
 				CODE_SIGN_ENTITLEMENTS = "TemplateProject-macOS.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
+				DEVELOPMENT_TEAM = BZQYTY2H65;
 				DSTROOT = "$(APP_PATH)";
 				ENABLE_HARDENED_RUNTIME = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -3841,7 +3842,7 @@
 					"$(APP_FRAMEWORKS)",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.AcmeInc.app.${BINARY_NAME}";
+				PRODUCT_BUNDLE_IDENTIFIER = TemplateProject;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = NO;
 				WRAPPER_EXTENSION = app;
